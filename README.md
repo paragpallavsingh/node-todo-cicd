@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-todo-cicd demo
 
 Run these commands:
 
